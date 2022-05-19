@@ -1,2 +1,61 @@
 usuario: andre
 senha: 112358
+
+
+
+    {
+        "id": 1,
+        "titulo": "Django REST Framework - Essencial",
+        "url": "https://www.udemy.com/course/criando-apis-rest-com-django-rest-framework-essencial/",
+        "criacao": "2022-04-20T17:17:50.604398-03:00",
+        "ativo": true
+    },
+    {
+        "id": 2,
+        "titulo": "Django REST Framework",
+        "url": "https://www.udemy.com/course/",
+        "criacao": "2022-05-13T16:34:13.147713-03:00",
+        "ativo": true
+    },
+    {
+        "id": 3,
+        "titulo": "Gestão Profissional - Escola para Moteleiros",
+        "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjp8sCYnN33AhXx4FwKHcEdBV0YABACGgJjZQ&ae=2&ohost=www.google.com&cid=CAESauD2OMymZp7unMiJjAKJyKcxvfshlcxTYBnhfBMc2-WdyVSAuS9o19uBZZ0f74_ruurd3",
+        "criacao": "2022-05-13T16:34:39.363924-03:00",
+        "ativo": true
+    },
+    {
+        "id": 4,
+        "titulo": "Como administrar seu tempo",
+        "url": "https://www.nube.com.br/",
+        "criacao": "2022-05-13T16:38:45.318319-03:00",
+        "ativo": true
+    },
+    {
+        "id": 5,
+        "titulo": "Como desenvolver negócios inovadores",
+        "url": "https://www.educamaisbrasil.com.br/cursos-e-faculdades/administra%C3%A7%C3%A3o",
+        "criacao": "2022-05-13T16:39:16.490968-03:00",
+        "ativo": true
+    },
+    {
+        "id": 6,
+        "titulo": "Como treinar o Flamengo: Analisando seus jogos.",
+        "url": "https://www.google.com/search?q=flamengo+jogos&rlz=1C1GCEU_pt-BRBR821BR821&oq=fl&aqs=chrome.0.69i59j46i131i433i512j0i131i433i512j46i433i512j69i57j69i60l3.727j0j7&sourceid=chrome&ie=UTF-8",
+        "criacao": "2022-05-18T16:44:35.490827-03:00",
+        "ativo": true
+    },
+    {
+        "id": 7,
+        "titulo": "Introdução ao tema da liderança.",
+        "url": "https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ao-tema-da-lideranca",
+        "criacao": "2022-05-18T16:56:45.541481-03:00",
+        "ativo": true
+    },
+    {
+        "id": 8,
+        "titulo": "Direito Eleitoral",
+        "url": "https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/direito-eleitoral",
+        "criacao": "2022-05-19T16:19:54.385410-03:00",
+        "ativo": false
+    }
